@@ -8,4 +8,4 @@ for deployment of this project we to
 4)in book table enter a bid(book id), bname(book name),price(book price),bauthor(book author).
 
 
-In this project i used a mysql database.
+In this project i used a mysql database. ansd this is java servlet project.
